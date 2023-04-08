@@ -44,7 +44,7 @@ const Services = () => {
           <Card
           emoji={Humble}
           heading={"Backend Developer"}
-          detail={"Php,Node Js"}
+          detail={"Node Js,Express Js,Php"}
         />
         </div>
         {/* 3rd card*/}
@@ -54,7 +54,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Database"}
-            detail={"Mysql"}
+            detail={"Mysql,Mongo DB"}
           />
         </div>
         <div
