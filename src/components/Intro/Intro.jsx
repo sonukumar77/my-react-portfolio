@@ -53,10 +53,13 @@ const Intro = () => {
         <img src="https://avatars.githubusercontent.com/u/82059136?s=400&u=3db8743bcc3071e3442085c5c120a5eea9cf1a82&v=4" alt="boy" />
         <img src={glassesimoji} alt="glassemoji" />
         <div style={{ top: "-4%", left: "68%" }} className="floating-div">
-          <FloatingDiv image={Crown} text1="Web" text2="Developer" />
+          <FloatingDiv image={Crown} text1="Frontend" text2="Developer" />
+        </div>
+        <div style={{ top: "13rem", left: "68%" }} className="floating-div">
+          <FloatingDiv image={Thumbup} text1="Backend" text2="Developer" />
         </div>
         <div style={{ top: "18rem", left: "1rem" }} className="floating-div">
-          <FloatingDiv image={Thumbup} text1="Full Stack" text2="Developer" />
+          <FloatingDiv image={Thumbup} text1="MERN Stack" text2="Developer" />
         </div>
         {/* blur divs */}
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
