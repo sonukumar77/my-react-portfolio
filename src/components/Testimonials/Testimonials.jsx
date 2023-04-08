@@ -13,17 +13,17 @@ const clients = [
     {
         title:"Frontend Skill",
         img:"Html",
-        skill:"Html,Css,Bootstrap,JavaScript,jQuery,React Js,Redux"
+        skill:"Html,Css,Bootstrap,JavaScript,jQuery,React Js,Redux,React-Router"
     },
     {
       title:"Backend  Skill",
       img:"php",
-      skill:"Php,Node js"
+      skill:"Node js,Php"
     },
     {
       title:"Database",
       img:"Mysql",
-      skill:"Mysql"
+      skill:"Mysql,Mongo DB"
     },
     
 ]
